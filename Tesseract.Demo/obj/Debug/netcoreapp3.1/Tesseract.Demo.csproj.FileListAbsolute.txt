@@ -1,0 +1,16 @@
+C:\Users\thiru\Downloads\Tesseract.Demo\Tesseract.Demo\bin\Debug\netcoreapp3.1\x86\liblept1753.dll
+C:\Users\thiru\Downloads\Tesseract.Demo\Tesseract.Demo\bin\Debug\netcoreapp3.1\x86\libtesseract3052.dll
+C:\Users\thiru\Downloads\Tesseract.Demo\Tesseract.Demo\bin\Debug\netcoreapp3.1\x64\liblept1753.dll
+C:\Users\thiru\Downloads\Tesseract.Demo\Tesseract.Demo\bin\Debug\netcoreapp3.1\x64\libtesseract3052.dll
+C:\Users\thiru\Downloads\Tesseract.Demo\Tesseract.Demo\bin\Debug\netcoreapp3.1\Tesseract.Demo.exe
+C:\Users\thiru\Downloads\Tesseract.Demo\Tesseract.Demo\bin\Debug\netcoreapp3.1\Tesseract.Demo.deps.json
+C:\Users\thiru\Downloads\Tesseract.Demo\Tesseract.Demo\bin\Debug\netcoreapp3.1\Tesseract.Demo.runtimeconfig.json
+C:\Users\thiru\Downloads\Tesseract.Demo\Tesseract.Demo\bin\Debug\netcoreapp3.1\Tesseract.Demo.runtimeconfig.dev.json
+C:\Users\thiru\Downloads\Tesseract.Demo\Tesseract.Demo\bin\Debug\netcoreapp3.1\Tesseract.Demo.dll
+C:\Users\thiru\Downloads\Tesseract.Demo\Tesseract.Demo\bin\Debug\netcoreapp3.1\Tesseract.Demo.pdb
+C:\Users\thiru\Downloads\Tesseract.Demo\Tesseract.Demo\bin\Debug\netcoreapp3.1\Tesseract.dll
+C:\Users\thiru\Downloads\Tesseract.Demo\Tesseract.Demo\obj\Debug\netcoreapp3.1\Tesseract.Demo.AssemblyInfoInputs.cache
+C:\Users\thiru\Downloads\Tesseract.Demo\Tesseract.Demo\obj\Debug\netcoreapp3.1\Tesseract.Demo.AssemblyInfo.cs
+C:\Users\thiru\Downloads\Tesseract.Demo\Tesseract.Demo\obj\Debug\netcoreapp3.1\Tesseract.Demo.csproj.CopyComplete
+C:\Users\thiru\Downloads\Tesseract.Demo\Tesseract.Demo\obj\Debug\netcoreapp3.1\Tesseract.Demo.dll
+C:\Users\thiru\Downloads\Tesseract.Demo\Tesseract.Demo\obj\Debug\netcoreapp3.1\Tesseract.Demo.pdb
